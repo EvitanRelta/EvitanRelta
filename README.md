@@ -9,3 +9,5 @@ $  I drink coffee
 $  and sometimes upload gaming <a href="https://www.youtube.com/c/EvitanRelta">YouTube</a> videos
 </pre>
 </h3>
+
+<p align="right"><img src="./assets/lightmode_secret.png" height=20></p>
