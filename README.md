@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/happy_face_dark_opacity70.png" height=26>&nbsp;&nbsp;Hello!&nbsp;&nbsp;I'm Shaun&nbsp;&nbsp;<img src="./assets/happy_face_light.png" height=26></h1>
+<h1 align="center"><img src="./assets/happy_face_dark_opacity70.png" height=26>&nbsp;&nbsp;Hello!&nbsp;&nbsp;I'm Shaun&nbsp;&nbsp;<img src="./assets/happy_face_light_opacity220.png" height=26></h1>
 
 <h3 align="center">a NUS Computer Science undergraduate</h3>
 
